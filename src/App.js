@@ -1,11 +1,11 @@
 import { useState, useEffect } from 'react'
-import LoadingSpinner from './components/LoadingSpinner'
-import HamburgerMenu from './components/Layout/HamburgerMenu'
-import FullScreenMenu from './components/Layout/FullScreenMenu'
-import Hero from './components/Hero'
-import ProblemSection from './components/ProblemSection'
-import HowItWorks from './components/HowItWorks'
-import CTA from './components/CTA'
+import LoadingSpinner from './components/LoadingSpinner.js'
+import HamburgerMenu from './components/Layout/HamburgerMenu.js'
+import FullScreenMenu from './components/Layout/FullScreenMenu.js'
+import Hero from './components/Hero.js'
+import ProblemSection from './components/ProblemSection.js'
+import HowItWorks from './components/HowItWorks.js'
+import CTA from './components/CTA.js'
 import './index.css'
 
 function App() {
